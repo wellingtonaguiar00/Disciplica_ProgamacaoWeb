@@ -60,7 +60,6 @@ function avaliarCredito(saldo, historicoCredito, rendaMensal) {
   }
 }
 
-// Função para exibir o menu e interagir com o usuário
 function exibirMenu() {
   console.log("=== Menu ===");
   console.log("1. Verificar Saldo");
@@ -120,5 +119,4 @@ function exibirMenu() {
   }
 }
 
-// Chamada para exibir o menu
 exibirMenu();
