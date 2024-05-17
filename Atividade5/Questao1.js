@@ -8,5 +8,4 @@ function exibirMensagemBoasVindas() {
     }
 }
 
-
 window.onload = exibirMensagemBoasVindas;
